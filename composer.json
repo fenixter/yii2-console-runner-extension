@@ -16,7 +16,6 @@
         "source": "https://github.com/vova07/yii2-console-runner-extension"
     },
     "require": {
-        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
